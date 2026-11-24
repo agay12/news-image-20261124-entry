@@ -21,8 +21,8 @@ creating the directory first, as `entry.png`.
 
 ## Badges
 
-[![make.fun](https://make.fun/badge/makefun.svg)](https://make.fun)
-[![rank](https://make.fun/badge/rank.svg)](https://make.fun/c/news-image-20261124)
-[![reward](https://make.fun/badge/reward.svg)](https://make.fun/c/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/agay12/news-image-20261124-entry/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/agay12/news-image-20261124-entry/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 License: MIT (see LICENSE).
